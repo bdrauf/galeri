@@ -96,14 +96,14 @@ const Slider = () => {
           </Carousel.Caption>
         </Carousel.Item>
         <Carousel.Item>
-          <img className="d-block w-full" src="pasir1.jpg" />
+          <img className="d-block w-full" src="pasir1x.jpg" />
           <Carousel.Caption>
             <h3>Pasir Putih</h3>
             <p>Lombok, Indonesia</p>
           </Carousel.Caption>
         </Carousel.Item>
         <Carousel.Item>
-          <img className="d-block w-full" src="pasir2.jpg" />
+          <img className="d-block w-full" src="pasir2x.jpg" />
           <Carousel.Caption>
             <h3>Pasir Putih</h3>
             <p>Lombok, Indonesia</p>
@@ -113,14 +113,14 @@ const Slider = () => {
           <img className="d-block w-full" src="kahe1.jpg" />
           <Carousel.Caption>
             <h3>Komunitas Kahe</h3>
-            <p>Flores, Indonesia</p>
+            <p>Maumere, Indonesia</p>
           </Carousel.Caption>
         </Carousel.Item>
         <Carousel.Item>
           <img className="d-block w-full" src="kahe2.jpg" />
           <Carousel.Caption>
             <h3>Komunitas Kahe</h3>
-            <p>Flores, Indonesia</p>
+            <p>Maumere, Indonesia</p>
           </Carousel.Caption>
         </Carousel.Item>
         <Carousel.Item>
