@@ -1,20 +1,20 @@
 import Image from "next/image";
 import { Inter } from "next/font/google";
 import Slider from "@/components/Slider";
+import Nav from "@/components/Nav";
 
 const inter = Inter({ subsets: ["latin"] });
 
 export default function Home() {
   return (
-    <div className="bg-[#f6da03]">
-      <div className="flex justify-center items-center h-screen">
-        <div className="w-[92%] bg-[#f390d8] box">
-          <Slider />
-        </div>
+    <div className="bg-[#f6da03] h-full">
+      <Nav />
+      <div className="w-[55%] m-auto bg-[#f390d8] box">
+        <Slider />
       </div>
-      <div className="mt-12 mr-8 ml-8 pb-12 pl-8 pr-8">
+      <div className="mt-11 mr-8 ml-8 pb-12 pl-8 pr-8">
         <h1 className="font-bold mb-2">Lumbung Indonesia</h1>
-        <p className="text-right">
+        <p className="text-left">
           Kerja-kerja dalam Lumbung Indonesia tak hanya terbatas pada praktik
           kesenian, namun juga menyoal daya tahan dan keberlangsungan dari
           kolektif seni itu sendiri. Maka dari itu, wadah ini dibangun agar
