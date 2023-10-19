@@ -1,0 +1,59 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --background-color: #f6da03;
+}
+
+body {
+  background-color: var(--background-color);
+}
+
+/* Customize the Carousel container */
+.carousel {
+  background-color: none; /* Set background color to a dark tone */
+  border: none; /* Remove border */
+  padding: 0; /* Remove padding */
+  margin: 0; /* Remove margin */
+  box-shadow: #010101;
+  /* Remove box shadow */
+}
+
+/* Customize the Carousel controls (previous and next buttons) */
+.carousel .carousel-control-prev,
+.carousel .carousel-control-next {
+  width: 30px;
+  height: 30px;
+  border: 1px solid #010101;
+  color: #010101;
+  font-size: 10px;
+  cursor: pointer;
+  padding: 4px;
+  box-shadow: 2px 2px;
+}
+
+/* Customize the Carousel control arrows */
+.carousel .carousel-control-prev-icon,
+.carousel .carousel-control-next-icon {
+  background-color: black; /* Remove background color */
+  width: 30px; /* Set the width of the arrows */
+  height: 30px; /* Set the height of the arrows */
+  transform: none; /* Remove the default arrow rotation */
+}
+
+/* Hide the Carousel indicators (dots) */
+.carousel .carousel-indicators {
+  display: none;
+}
+
+/* Style the Carousel items (slides) */
+.carousel-item {
+  background-color: #f390d8; /* Set slide background color to a dark tone */
+  color: #000000; /* Set text color to white */
+  padding: 45px; /* Reduce padding for a smaller size */ /* Add a box shadow to the slides */
+}
+
+.box {
+  box-shadow: 13px 13px#010101;
+}
