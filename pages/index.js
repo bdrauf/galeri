@@ -12,7 +12,7 @@ export default function Home() {
       <div className="w-[55%] m-auto bg-[#f390d8] box">
         <Slider />
       </div>
-      <div className="mt-11 mr-8 ml-8 pb-12 pl-8 pr-8">
+      <div className="mt-12 mr-8 ml-8 pb-12 pl-8 pr-8">
         <h1 className="font-bold mb-2">Lumbung Indonesia</h1>
         <p className="text-left">
           Kerja-kerja dalam Lumbung Indonesia tak hanya terbatas pada praktik
