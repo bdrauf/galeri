@@ -96,14 +96,14 @@ const Slider = () => {
           </Carousel.Caption>
         </Carousel.Item>
         <Carousel.Item>
-          <img className="d-block w-full" src="pasir1x.jpg" />
+          <img className="d-block w-full" src="Pasir1x.jpg" />
           <Carousel.Caption>
             <h3>Pasir Putih</h3>
             <p>Lombok, Indonesia</p>
           </Carousel.Caption>
         </Carousel.Item>
         <Carousel.Item>
-          <img className="d-block w-full" src="pasir2x.jpg" />
+          <img className="d-block w-full" src="Pasir2x.jpg" />
           <Carousel.Caption>
             <h3>Pasir Putih</h3>
             <p>Lombok, Indonesia</p>
