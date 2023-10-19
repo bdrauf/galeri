@@ -16,7 +16,7 @@ const Slider = () => {
           </Carousel.Caption>
         </Carousel.Item>
         <Carousel.Item>
-          <img className="d-block w-full" src="sudut1.jpg" />
+          <img className="d-block w-full" src="sudut1q.jpg" />
           <Carousel.Caption>
             <h3>Lumbung Kelana</h3>
             <p>Kesana kemari berbagi</p>
