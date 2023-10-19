@@ -30,7 +30,7 @@ const Slider = () => {
           </Carousel.Caption>
         </Carousel.Item>
         <Carousel.Item>
-          <img className="d-block w-full" src="siku1.jpg" />
+          <img className="d-block w-full" src="siku1.png" />
           <Carousel.Caption>
             <h3>Lumbung Kelana</h3>
             <p>Kesana kemari berbagi</p>
@@ -38,6 +38,20 @@ const Slider = () => {
         </Carousel.Item>
         <Carousel.Item>
           <img className="d-block w-full" src="siku2.jpg" />
+          <Carousel.Caption>
+            <h3>Lumbung Kelana</h3>
+            <p>Kesana kemari berbagi</p>
+          </Carousel.Caption>
+        </Carousel.Item>
+        <Carousel.Item>
+          <img className="d-block w-full" src="troto1.jpg" />
+          <Carousel.Caption>
+            <h3>Lumbung Kelana</h3>
+            <p>Kesana kemari berbagi</p>
+          </Carousel.Caption>
+        </Carousel.Item>
+        <Carousel.Item>
+          <img className="d-block w-full" src="troto2.jpg" />
           <Carousel.Caption>
             <h3>Lumbung Kelana</h3>
             <p>Kesana kemari berbagi</p>
