@@ -11,50 +11,64 @@ const Slider = () => {
         <Carousel.Item>
           <img className="d-block w-full" src="/peta.jpg" />
           <Carousel.Caption style={captionStyle}>
-            <h3>Lumbung Kelana</h3>
+            <h3>Peta Kelana</h3>
             <p>Kesana kemari berbagi</p>
           </Carousel.Caption>
         </Carousel.Item>
         <Carousel.Item>
           <img className="d-block w-full" src="sudut1q.jpg" />
           <Carousel.Caption>
-            <h3>Lumbung Kelana</h3>
-            <p>Kesana kemari berbagi</p>
+            <h3>Forum Sudut Pandang</h3>
+            <p>Palu, Indonesia</p>
           </Carousel.Caption>
         </Carousel.Item>
         <Carousel.Item>
           <img className="d-block w-full" src="sudut2q.jpg" />
           <Carousel.Caption>
-            <h3>Lumbung Kelana</h3>
-            <p>Kesana kemari berbagi</p>
+            <h3>Forum Sudut Pandang</h3>
+            <p>Palu, Indonesia</p>
           </Carousel.Caption>
         </Carousel.Item>
         <Carousel.Item>
           <img className="d-block w-full" src="siku1.jpg" />
           <Carousel.Caption>
-            <h3>Lumbung Kelana</h3>
-            <p>Kesana kemari berbagi</p>
+            <h3>Siku Ruang Terpadu</h3>
+            <p>Makassar, Indonesia</p>
           </Carousel.Caption>
         </Carousel.Item>
         <Carousel.Item>
           <img className="d-block w-full" src="siku2q.jpg" />
           <Carousel.Caption>
-            <h3>Lumbung Kelana</h3>
-            <p>Kesana kemari berbagi</p>
+            <h3>Siku Ruang Terpadu</h3>
+            <p>Makassar, Indonesia</p>
           </Carousel.Caption>
         </Carousel.Item>
         <Carousel.Item>
           <img className="d-block w-full" src="troto1.jpg" />
           <Carousel.Caption>
-            <h3>Lumbung Kelana</h3>
-            <p>Kesana kemari berbagi</p>
+            <h3>Trotoart</h3>
+            <p>Penjaringan, Indonesia</p>
           </Carousel.Caption>
         </Carousel.Item>
         <Carousel.Item>
           <img className="d-block w-full" src="troto2.jpg" />
           <Carousel.Caption>
-            <h3>Lumbung Kelana</h3>
-            <p>Kesana kemari berbagi</p>
+            <h3>Trotoart</h3>
+            <p>Penjaringan, Indonesia</p>
+          </Carousel.Caption>
+        </Carousel.Item>
+        <Carousel.Item>
+          <img className="d-block w-full" src="hyteria1.jpg" />
+          <Carousel.Caption>
+            <h3>Hysteria</h3>
+            <p>Semarang, Indonesia</p>
+          </Carousel.Caption>
+        </Carousel.Item>
+        <Carousel.Item>
+          <img className="d-block w-full" src="hyteria2.jpg" />
+          <Carousel.Caption>
+            <h3>Hysteria</h3>
+            <p>Semarang, Indonesia</p>
           </Carousel.Caption>
         </Carousel.Item>
       </Carousel>
